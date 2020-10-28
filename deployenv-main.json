@@ -1,0 +1,9 @@
+{
+    "msign": {
+        "signers": [
+            "", "", "", "", ""
+        ],
+        "threshold": 3
+    },
+    "deployer": ""
+}
